@@ -29,10 +29,9 @@ Create visualizations of the principal components to interpret patterns and clus
 
 ## Program:
 ```
-/*
 Program to implement Principal Component Analysis (PCA) for dimensionality reduction on the energy data.
-Developed by: DHARSHINIYAA KS
-RegisterNumber: 212223100004
+Developed by: JAYAGANAPATHI S
+RegisterNumber: 212224040133
 
 
 # Import necessary libraries
@@ -82,7 +81,6 @@ plt.xlabel("Principal Component 1")
 plt.ylabel("Principal Component 2")
 plt.title("PCA - Heights and Weights Dataset")
 plt.show()
-*/
 ```
 
 ## Output:
